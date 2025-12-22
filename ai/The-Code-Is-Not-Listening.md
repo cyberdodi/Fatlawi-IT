@@ -35,13 +35,13 @@ To simplify the idea:
 user_input = input("Say anything: ")
 reply = model.generate(user_input)
 
-# Conceptual background process
 training_data.append(user_input)
 update_model(training_data)
 
 print(reply)
 Your input becomes: data → pattern → training material not emotional comprehension.
-Related Technical Concepts: OpenAI Documentation https://platform.openai.com/docs Google AI Documentation https://ai.google.dev/
+Related Technical Concepts: OpenAI Documentation 
+https://platform.openai.com/docs Google AI Documentation https://ai.google.dev/
 
 RLHF (Reinforcement Learning with Human Feedback)  Simplified
 Many systems improve through human evaluation:
@@ -52,14 +52,15 @@ for message in conversations:
     evaluation = human_review(output)
     model.learn(evaluation)
 The model improves because humans evaluate and adjust outcomes. Not because AI “cares”.
-Research Foundations: OpenAI RLHF Research https://openai.com/research Anthropic Constitutional AI https://www.anthropic.com/research/constitutional-ai DeepMind RL Research https://deepmind.google/research
+Research Foundations: OpenAI RLHF 
+Research https://openai.com/research Anthropic Constitutional AI https://www.anthropic.com/research/constitutional-ai DeepMind RL Research https://deepmind.google/research
 
-Where AI Is Strong — and Where It Should Not Replace Humans
+Where AI Is Strong and Where It Should Not Replace Humans
 AI is excellent for:
 education research coding data analysis automation language assistance
 AI should not replace:
 human judgment critical thinking mental health support genuine relationships ethical decision-making
-Ethical Guidance Resources: UNESCO — AI Ethics https://www.unesco.org/en/artificial-intelligence/recommendation-ethics IEEE — Ethically Aligned AI https://ethicsinaction.ieee.org/ WHO — Digital Mental Health Guidance https://www.who.int/publications
+Ethical Guidance Resources: UNESCO  AI Ethics https://www.unesco.org/en/artificial-intelligence/recommendation-ethics IEEE — Ethically Aligned AI https://ethicsinaction.ieee.org/ WHO  Digital Mental Health Guidance https://www.who.int/publications
 
 Responsible and Academically Aware AI Use
 To use AI wisely:
