@@ -6,7 +6,7 @@ I do not view Artificial Intelligence as a “friend,” “listener,” or emot
 From a technical perspective, AI is not listening to users. It is learning from them.
 Most modern AI systems are designed to continuously improve using user interactions, feedback signals, and conversation logs as part of their training ecosystem.
 
-Users Are Part of AI Training — By Design
+Users Are Part of AI Training  By Design
 AI systems rarely stop learning after development. Many rely on ongoing improvement mechanisms such as:
 Fine-tuning using new interaction data
 Reinforcement Learning with Human Feedback (RLHF)
@@ -20,7 +20,7 @@ probability distributions
 pattern recognition
 linguistic modeling
 statistical prediction
-It can simulate human-like communication, but it does not experience awareness, emotion, or lived reality.
+It can simulate human like communication, but it does not experience awareness, emotion, or lived reality.
 Academic Context: Stanford Human-Centered AI https://hai.stanford.edu/ MIT Technology Review — AI Limitations https://www.technologyreview.com
 
 Documented Technical Reality
@@ -75,7 +75,8 @@ Additional High-Credibility Awareness Resources
 Stanford HAI https://hai.stanford.edu/ MIT Technology Review AI Section https://www.technologyreview.com/ai/ European Union AI Act Resources https://artificialintelligenceact.eu/ OECD AI Policy Observatory https://oecd.ai/ BBC Future — AI Editorials https://www.bbc.com/future/tags/artificial-intelligence NYTimes AI Analysis https://www.nytimes.com/spotlight/artificial-intelligence
 
 Personal Academic Position
-As a cybersecurity engineering student, I respect AI deeply. It is powerful, innovative, and central to the future. However, understanding it correctly is essential.
+As a cybersecurity engineering student, I respect AI deeply. It is powerful,
+innovative, and central to the future. However, understanding it correctly is essential.
 AI learns. AI adapts. AI improves.
 But it does not think like humans, does not feel like humans, and does not replace human awareness or responsibility.
 Using AI wisely is not fear. It is technical maturity and academic literacy.
